@@ -1,0 +1,32 @@
+[
+  {
+    "server": "127.0.0.1",
+    "server_port": 8388,
+    "password": "password",
+    "method": "chacha20-ietf",
+    "remarks": "",
+    "route": "bypass-lan",
+    "remote_dns": "one.one.one.one",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "127.0.0.1",
+    "server_port": 8388,
+    "password": "password",
+    "method": "chacha20-ietf",
+    "remarks": "",
+    "route": "bypass-lan",
+    "remote_dns": "one.one.one.one",
+    "ipv6": true,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
